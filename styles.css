@@ -1,0 +1,25 @@
+body {
+    background-color:#EAF6F6;
+}
+
+h1 {
+    color:#19A7CE;
+}
+h2 {
+    color:#66BFBF;
+}
+
+hr{
+    border-color:grey;
+    border-style:none;
+    border-top-style:dotted;
+    border-width:5px;
+    width:4%;
+
+}
+
+.Kaustav{
+    border-radius:100%;
+}
+
+
